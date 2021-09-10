@@ -1,7 +1,9 @@
 # Rhythm_Game_with_Java
 To get used to Java, create rhythm game with my favorite song
 
-
+~~
+2021.09.10
+(add 6 song, making beats_)
 
 
 
